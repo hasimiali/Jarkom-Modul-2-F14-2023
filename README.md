@@ -6,7 +6,7 @@ NRP anggota 1: 5025211131 <br />
 
 ## 1. Buat topologi jaringan
 Topologi 4 adalah topologi yang digunakan kelompok kami, kelompok f14<br />
-![Topologi 4](tangkaplayar/topologi.png)
+![Topologi 4](media/topologi.png)
 
 ## 2. Buat website utama dengan akses ke arjuna.f14.com dengan alias www.arjuna.f14.com
 _Script_ yang digunakan adalah makeArjuna.sh yang dijalankan di node YudhistiraDNSMaster dan melakukan perintah:
